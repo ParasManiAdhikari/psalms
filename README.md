@@ -1,3 +1,3 @@
 # psalms
 
-A new Flutter project.
+Flutter Minimal Music Player.
